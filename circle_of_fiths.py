@@ -8,6 +8,7 @@ class MajorMinor(Enum):
     MAJOR = 1
     MINOR = 0
 
+
 major = MajorMinor.MAJOR
 minor = MajorMinor.MINOR
 
